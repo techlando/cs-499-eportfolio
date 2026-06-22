@@ -17,7 +17,7 @@ My professional self-assessment serves as the introduction to my CS 499 ePortfol
 
 My code review video explains the original functionality of my selected artifacts, identifies areas for improvement, and outlines my planned enhancements for the three major areas of computer science: software design and engineering, algorithms and data structures, and databases.
 
-[Watch Code Review Video](PASTE-YOUR-CODE-REVIEW-LINK-HERE)
+[Watch Code Review Video](https://www.youtube.com/watch?v=V2PviSWllOc)
 
 ---
 
